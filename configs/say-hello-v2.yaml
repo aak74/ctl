@@ -1,0 +1,8 @@
+apiVersion: v2
+kind: SayHello
+metadata:
+  name: john
+spec:
+  params:
+    name: John
+    lang: english

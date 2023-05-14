@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: SayYes
+metadata:
+  name: john
+spec:
+  params:
+    name: John
+    prefix: mr.

@@ -1,0 +1,8 @@
+apiVersion: v2
+kind: SayHello
+metadata:
+  name: lisa
+spec:
+  params:
+    name: Lisa
+    lang: french
